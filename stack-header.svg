@@ -1,0 +1,9 @@
+<svg viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stack">
+  <rect width="1200" height="90" rx="10" fill="#0d1117"/>
+  <rect x="0" y="8" width="6" height="74" fill="#7ee787"/>
+  <circle cx="44" cy="45" r="7" fill="#ff7b72"/>
+  <circle cx="70" cy="45" r="7" fill="#ffa657"/>
+  <circle cx="96" cy="45" r="7" fill="#7ee787"/>
+  <text x="130" y="55" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="30" fill="#7ee787">$ cat stack.txt</text>
+  <text x="1160" y="53" font-family="Arial, sans-serif" font-size="22" fill="#8b949e" text-anchor="end">🛠️ STACK</text>
+</svg>
