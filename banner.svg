@@ -1,22 +1,16 @@
 <svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Un gusto, soy Izan">
-  <defs>
-    <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0a0e1a"/>
-      <stop offset="45%" stop-color="#2d1b3d"/>
-      <stop offset="75%" stop-color="#a83e17"/>
-      <stop offset="100%" stop-color="#ffb347"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffcf7a" stop-opacity="0.5"/>
-      <stop offset="100%" stop-color="#ffcf7a" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+  <rect width="1200" height="240" fill="#0d1117"/>
 
-  <rect width="1200" height="240" fill="url(#dawn)"/>
-  <circle cx="970" cy="90" r="140" fill="url(#glow)"/>
+  <rect x="0" y="0" width="300" height="5" fill="#7ee787"/>
+  <rect x="300" y="0" width="300" height="5" fill="#ffa657"/>
+  <rect x="600" y="0" width="300" height="5" fill="#d2a8ff"/>
+  <rect x="900" y="0" width="300" height="5" fill="#79c0ff"/>
 
-  <polygon points="1000,240 1000,225 1033,225 1033,210 1066,210 1066,195 1099,195 1099,180 1132,180 1132,165 1165,165 1165,150 1200,150 1200,240" fill="#070911" opacity="0.6"/>
+  <text x="780" y="115" font-size="80" opacity="0.18" transform="rotate(-8 780 115)">🐳</text>
+  <text x="970" y="70" font-size="60" opacity="0.16" transform="rotate(6 970 70)">🐧</text>
+  <text x="1075" y="160" font-size="95" opacity="0.16">☁️</text>
+  <text x="700" y="205" font-size="55" opacity="0.18" transform="rotate(-5 700 205)">⚙️</text>
 
-  <text x="60" y="118" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Un gusto, soy Izan 👋</text>
-  <text x="63" y="158" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#ffcf7a">De las finanzas al Cloud</text>
+  <text x="60" y="130" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Un gusto, soy Izan 👋</text>
+  <text x="63" y="170" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="22" font-weight="400" fill="#79c0ff">De las finanzas al Cloud</text>
 </svg>

@@ -1,0 +1,50 @@
+<svg viewBox="0 0 1200 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Progreso: AWS, GitHub Actions, Docker, Terraform, Linux, IA">
+  <rect width="1200" height="480" fill="#0d1117"/>
+
+  <text x="30" y="50" font-size="30">☁️</text>
+  <text x="75" y="50" font-family="Consolas, Monaco, monospace" font-size="20" font-weight="700" fill="#ffa657">AWS</text>
+  <rect x="400" y="36" width="300" height="16" rx="8" fill="#21262d"/>
+  <rect x="400" y="36" width="240" height="16" rx="8" fill="#ffa657"/>
+  <text x="715" y="49" font-family="Consolas, Monaco, monospace" font-size="15" fill="#ffa657">80%</text>
+  <text x="780" y="49" font-family="Arial, sans-serif" font-size="13" fill="#8b949e">EC2, VPC, RDS, S3, ECR, ECS, Fargate, Lambda...</text>
+  <line x1="30" y1="94" x2="1170" y2="94" stroke="#21262d" stroke-width="1"/>
+
+  <text x="30" y="126" font-size="30">⚙️</text>
+  <text x="75" y="126" font-family="Consolas, Monaco, monospace" font-size="20" font-weight="700" fill="#79c0ff">GitHub Actions</text>
+  <rect x="400" y="112" width="300" height="16" rx="8" fill="#21262d"/>
+  <rect x="400" y="112" width="180" height="16" rx="8" fill="#79c0ff"/>
+  <text x="715" y="125" font-family="Consolas, Monaco, monospace" font-size="15" fill="#79c0ff">60%</text>
+  <text x="780" y="125" font-family="Arial, sans-serif" font-size="13" fill="#8b949e">Workflows, matrices, OIDC con IAM</text>
+  <line x1="30" y1="170" x2="1170" y2="170" stroke="#21262d" stroke-width="1"/>
+
+  <text x="30" y="202" font-size="30">🐳</text>
+  <text x="75" y="202" font-family="Consolas, Monaco, monospace" font-size="20" font-weight="700" fill="#39c5cf">Docker</text>
+  <rect x="400" y="188" width="300" height="16" rx="8" fill="#21262d"/>
+  <rect x="400" y="188" width="180" height="16" rx="8" fill="#39c5cf"/>
+  <text x="715" y="201" font-family="Consolas, Monaco, monospace" font-size="15" fill="#39c5cf">60%</text>
+  <text x="780" y="201" font-family="Arial, sans-serif" font-size="13" fill="#8b949e">Dockerfile, Compose, redes, seguridad</text>
+  <line x1="30" y1="246" x2="1170" y2="246" stroke="#21262d" stroke-width="1"/>
+
+  <text x="30" y="278" font-size="30">🌍</text>
+  <text x="75" y="278" font-family="Consolas, Monaco, monospace" font-size="20" font-weight="700" fill="#d2a8ff">Terraform</text>
+  <rect x="400" y="264" width="300" height="16" rx="8" fill="#21262d"/>
+  <rect x="400" y="264" width="60" height="16" rx="8" fill="#d2a8ff"/>
+  <text x="715" y="277" font-family="Consolas, Monaco, monospace" font-size="15" fill="#d2a8ff">20%</text>
+  <text x="780" y="277" font-family="Arial, sans-serif" font-size="13" fill="#8b949e">Primeros pasos con Infraestructura como Código</text>
+  <line x1="30" y1="322" x2="1170" y2="322" stroke="#21262d" stroke-width="1"/>
+
+  <text x="30" y="354" font-size="30">🐧</text>
+  <text x="75" y="354" font-family="Consolas, Monaco, monospace" font-size="20" font-weight="700" fill="#7ee787">Linux, Redes y Seguridad</text>
+  <rect x="400" y="340" width="300" height="16" rx="8" fill="#21262d"/>
+  <rect x="400" y="340" width="120" height="16" rx="8" fill="#7ee787"/>
+  <text x="715" y="353" font-family="Consolas, Monaco, monospace" font-size="15" fill="#7ee787">40%</text>
+  <text x="780" y="353" font-family="Arial, sans-serif" font-size="13" fill="#8b949e">Construyendo las bases</text>
+  <line x1="30" y1="398" x2="1170" y2="398" stroke="#21262d" stroke-width="1"/>
+
+  <text x="30" y="430" font-size="30">🤖</text>
+  <text x="75" y="430" font-family="Consolas, Monaco, monospace" font-size="20" font-weight="700" fill="#ff7b72">IA / Machine Learning</text>
+  <rect x="400" y="416" width="300" height="16" rx="8" fill="#21262d"/>
+  <rect x="400" y="416" width="60" height="16" rx="8" fill="#ff7b72"/>
+  <text x="715" y="429" font-family="Consolas, Monaco, monospace" font-size="15" fill="#ff7b72">20%</text>
+  <text x="780" y="429" font-family="Arial, sans-serif" font-size="13" fill="#8b949e">Explorando cómo combinarla con el Cloud</text>
+</svg>
