@@ -6,9 +6,9 @@
   📍 España &nbsp;·&nbsp; 💼 Cuentas por Pagar (SAP) &nbsp;·&nbsp; 🎯 Cloud & DevOps
 </p>
 
-Tengo 20 años y no vengo del mundo de las finanzas — de hecho, no tengo estudios en el sector. Empecé haciendo prácticas en una empresa y, cuando surgió la oportunidad de quedarme en ese puesto, la acogí sin dudarlo. Me dio conocimiento sobre un terreno totalmente distinto, otra visión de las cosas y, sobre todo, la capacidad de adaptarme a cualquier entorno partiendo de cero.
+**Actualmente, estoy trabajando en un puesto el cual no tengo estudios en ese sector. Empecé haciendo prácticas en una empresa y, cuando surgió la oportunidad de quedarme en ese puesto, la acogí sin dudarlo. Me dio conocimiento sobre un terreno totalmente distinto, otra visión de las cosas y, sobre todo, la capacidad de adaptarme a cualquier entorno partiendo de cero.
 
-Pero lo que de verdad me apasiona es la informática, así que estudio y aprendo algo nuevo cada día porque quiero llegar lejos, y porque quiero aportar mi granito de arena a la humanidad construyendo software que resuelva problemas reales a la gente — cada vez más orientado al Cloud y la Inteligencia Artificial.
+Pero lo que de verdad me apasiona es la informática, así que estudio y aprendo algo nuevo cada día porque quiero llegar lejos, y porque quiero aportar mi granito de arena a la humanidad construyendo software que resuelva problemas reales a la gente — cada vez más orientado al Cloud y la Inteligencia Artificial.**
 
 <br/>
 
@@ -17,11 +17,11 @@ Pero lo que de verdad me apasiona es la informática, así que estudio y aprendo
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cs,kotlin,java,linux,git,github,docker,terraform,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=py,cs,kotlin,java,linux,git,github,docker,terraform,aws,githubactions" />
 </p>
 
 <p align="center">
-  <sub>Construido a base de documentación, café y algún que otro <code>console.log()</code> 🐛☕</sub>
+  <code>Construido a base de documentación, tenacidad y constancia 🐛☕</code>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Pero lo que de verdad me apasiona es la informática, así que estudio y aprendo
 </p>
 
 <p align="center">
-  <img src="./contact-header.svg" width="100%" alt="Hablemos"/>
+  <img src="./contact-header.svg" width="100%" alt="Contacta Conmigo 😜"/>
 </p>
 
 <p align="center">
